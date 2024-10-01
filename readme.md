@@ -1,6 +1,6 @@
 📂 Problem Formats Repository Welcome to the Problem Formats Repository! This repository is a comprehensive collection designed to help you navigate various types of Data Structures and Algorithms (DSA) problems, categorized based on the context in which they are typically encountered.
 
-Contents: Initial Startup DSA Questions:
+Contents: Initial Coding Questions:
 
 This folder contains fundamental DSA problems that are commonly asked in startup environments. These questions typically focus on problem-solving ability, basic algorithms, and data structures that are essential for building a strong foundation. Service-Based DSA Questions:
 
